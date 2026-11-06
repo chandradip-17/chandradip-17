@@ -117,7 +117,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/chandradip-saha-241176449">
+  <a href="https://www.linkedin.com/in/chandradip-saha-241176449">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://x.com/ChandradipSaha">
