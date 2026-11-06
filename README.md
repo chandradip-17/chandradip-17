@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="![Chandradip Saha banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Chandradip%20Saha&fontSize=42&fontColor=ffffff&animation=fadeIn)" alt="Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:8b949e&height=100&section=footer" width="100%" alt="Gray gradient footer wave">
 
 ## 📌 About Me
 - 👋 Hi, I’m Chandradip Saha
