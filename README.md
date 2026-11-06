@@ -149,6 +149,6 @@
 <p align="center"><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/chandradipj" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
-  <img src="<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=footer" width="100%" alt="Blue gradient footer wave">" alt="Bottom Line" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:8b949e&height=100&section=footer" width="100%" alt="Gray gradient footer wave">
 </div>
 
