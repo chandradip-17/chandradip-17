@@ -123,9 +123,6 @@
   <a href="https://x.com/ChandradipSaha">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://youtube.com/@c2c-yt?si=4gzULxxw7JJkBETr">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
-  </a>&nbsp;&nbsp;
   <a href="mailto:chandradipsahaworkspace@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
