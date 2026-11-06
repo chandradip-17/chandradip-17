@@ -115,14 +115,6 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/chandradip-17">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chandradip-17&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-<br/>
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="www.linkedin.com/in/chandradip-saha-241176449">
