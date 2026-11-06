@@ -121,7 +121,6 @@
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=chandradip-17)
 <br/>
 
 ## 🔗 Connect with Me
